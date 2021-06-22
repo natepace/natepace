@@ -3,6 +3,7 @@ Hi im Nate!  I'm a software engineer out of New York with a keen eye for detail 
 If it's not in react, it really should be. 🤷‍♂️
 
 ReactJS, nodeJS, python, and graphic design through Adobe photoshop & lightroom are my primary tools.
+
 Code Languages:
 Javascript
 HTML
